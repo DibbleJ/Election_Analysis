@@ -1,5 +1,4 @@
-# Election_Analysis
-Python Election Analysis
+# Python Election Analysis
 
 ## Overview of Election Audit
 A Colorado Board of Elevtions employee has given you the following tasks to complete the election audit of a recent local congressional election.
@@ -23,7 +22,7 @@ The analysis of the election show that:
 - The voter turnout by county:
   - Jefferson county cast 38,855 votes, 10.5% of the total votes.
   - Denver county cast 306,055 votes, 82.8% of the total votes.
-  - Arapahoe county cast 27,801 votes, 6.7% of the total votes. 
+  - Arapahoe county cast 24,801 votes, 6.7% of the total votes. 
 
 ![image](https://user-images.githubusercontent.com/40553064/118206276-c5c9e800-b427-11eb-8c1f-9ca36b794480.png)
 
@@ -32,17 +31,17 @@ The analysis of the election show that:
 ![image](https://user-images.githubusercontent.com/40553064/118206299-cfebe680-b427-11eb-91eb-ce5377a65522.png)
 
 - The candidate results were:
-  - Charles Casper Stockham received 23.0% of the vote and 85213 votes
-  - Diana DeGette received 73.8% of the vote and 272892 votes
-  - Raymon Anthony Doane received 3.1% of the vote and 11606 votes
+  - Charles Casper Stockham received 23.0% of the vote and 85,213 votes
+  - Diana DeGette received 73.8% of the vote and 272,892 votes
+  - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes
 
 ![image](https://user-images.githubusercontent.com/40553064/118206382-0164b200-b428-11eb-9881-b6434267044a.png)
 
 - The winner of the election was:
-  - Diana DeGette who received 73.8% of the vote and 272892 votes
+  - Diana DeGette who received 73.8% of the vote and 272,892 votes
 
 ![image](https://user-images.githubusercontent.com/40553064/118206407-13465500-b428-11eb-8383-b6b38fe6bb62.png)
 
 ## Election Audit Summary
 
-To use this script in future elections, be sure to create two folders called "Resources" and "analysis" in the same location as the script, and place the election results in the "Resources" folder with the title "election_results.csv".
+To use this script in future elections, be sure to create two folders called "Resources" and "analysis" in the same location as the script, and place the election results in the "Resources" folder with the title "election_results.csv". Additionally, the script should be modified so that there is an indication of what election the results are for. This could probably be done through the use of input from the user.
